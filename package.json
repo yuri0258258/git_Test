@@ -1,0 +1,23 @@
+{
+  "name": "git_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuri0258258/git_Test.git"
+  },
+  "author": "yuri takeda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuri0258258/git_Test/issues"
+  },
+  "homepage": "https://github.com/yuri0258258/git_Test#readme",
+  "devDependencies": {
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  }
+}
